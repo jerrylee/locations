@@ -1,0 +1,14 @@
+{
+    "1": {
+        "location-name": "Test",
+        "lat": "a",
+        "long": "b",
+        "html": "c"
+    },
+    "2": {
+        "location-name": "test2",
+        "lat": "a",
+        "long": "b",
+        "html": "c"
+    }
+}
